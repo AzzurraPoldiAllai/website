@@ -1,0 +1,51 @@
+body {
+ font-family: "Helvetica", Arial, sans Serif;
+}
+
+
+
+.h1 {
+  position: fixed;
+  background: white;
+}
+
+
+.box {
+  width: 700px
+}
+.left {
+  float: left;
+  width: 260px;
+}
+
+.right {
+  float: right;
+  width: 440px;
+}
+
+
+.wrapper {
+  widht: 800px;
+  margin-left: 45px;
+  margin-right: auto;
+  margin-top: 45px
+  }
+
+
+.rundrum {
+  	background-color: lightgray;
+  	border-width: 6px;
+  	border-style: solid;
+  	border-color: gray;
+  	border-right-color: black;
+  	border-bottom-color: black;
+  }
+
+  #toplink {
+	background: white;
+	bottom: 0;
+	margin: 0;
+	padding: 0.5em 1em;
+	position: fixed;
+	right: 0;
+}
